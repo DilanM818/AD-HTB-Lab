@@ -33,6 +33,16 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 -Add newly provisioned computer for a new user to the domain. Validate their objects are correct.
 <br />
 
+# Key Takeaways
+-Learning how to use programs for AD administration such Active Directory Users and Groups and Group Policy Management Console
+<br />
+-Gain familiarity using Powershell cmdlets in addition to GUI
+<br />
+-Verifying changes have been made either through Powershell or ADUC
+<br />
+-Implement password strenthening via Group Policies
+<br />
+
 # Adding Users
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/07fd3fa1-cf5d-414f-841b-44be65811688)
@@ -115,13 +125,4 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 
 #### 🔸Verified Computer Object has been moved
 ![image](https://github.com/user-attachments/assets/bcdb1295-35b0-4f83-8af7-e4f6d1ad2014)
-
-# Key Takeaways
--Learning how to use programs for AD administration such Active Directory Users and Groups and Group Policy Management Console
-<br />
--Gain familiarity using Powershell cmdlets in addition to GUI
-<br />
--Verify changes have been made either through Powershell or ADUC
-<br />
--Implement minimum AD hardening via Group Policies
 
