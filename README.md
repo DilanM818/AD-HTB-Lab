@@ -1,4 +1,4 @@
-# Basic AD Administration-HTB LAB
+# Basic AD Administration
 
 # Scenario
 You are a domain administrator for a day and has been tasked to help the IT department close some work orders. You will be performing actions such as adding and removing users and groups, managing group policy, adding a new computer to the proper domain, and apply a modified Group Policy already in GPMC.
