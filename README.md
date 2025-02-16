@@ -1,4 +1,4 @@
-# AD-Basic Administration-LAB
+# Basic AD Administration-HTB LAB
 
 # Scenario
 You are a domain administrator for a day and has been tasked to help the IT department close some work orders. You will be performing actions such as adding and removing users and groups, managing group policy, adding a new computer to the proper domain, and apply a modified Group Policy already in GPMC.
@@ -116,4 +116,12 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 #### 🔸Verified Computer Object has been moved
 ![image](https://github.com/user-attachments/assets/bcdb1295-35b0-4f83-8af7-e4f6d1ad2014)
 
+# Key Takeaways
+-Learning how to use programs for AD administration such Active Directory Users and Groups and Group Policy Management Console
+<br />
+-Gain familiarity using Powershell cmdlets in addition to GUI
+<br />
+-Verify changes have been made either through Powershell or ADUC
+<br />
+-Implement minimum AD hardening via Group Policies
 
