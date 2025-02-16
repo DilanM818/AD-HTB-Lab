@@ -43,7 +43,8 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 -Implement password strenthening via Group Policies
 <br />
 
-# Adding Users
+# Walk-through
+### Adding Users
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/07fd3fa1-cf5d-414f-841b-44be65811688)
 #### 🔸ADUC
@@ -53,19 +54,19 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 
 ![image](https://github.com/user-attachments/assets/6280e923-63f2-428a-964c-14f3cc9fe97e)
 
-# Removing Users
+### Removing Users
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/101b4d0c-e78a-42e1-a8dd-1faea818cb9b)
 #### 🔸ADUC
 ![image](https://github.com/user-attachments/assets/4dfee315-212e-4bcb-923e-8ca9201e450b)
 
-# Unlock Account & Force password change at Logon
+## Unlock Account & Force password change at Logon
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/515aa695-f227-41ed-96e3-90a1b2e6b21c)
 #### 🔸ADDUC
 ![image](https://github.com/user-attachments/assets/18dfecda-39fe-41d9-8424-907616e8a14b)
 
-# Creating and Verifying a Security Group
+### Creating and Verifying a Security Group
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/d43b6a49-f88d-4a4f-9af1-933b297665da)
 
@@ -82,7 +83,7 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 
 ![image](https://github.com/user-attachments/assets/5d95345a-5dc5-4774-87f2-17b3c8582f31)
 
-# Manage Group Policy Objects
+### Manage Group Policy Objects
 #### 🔸Copy GPO to another GPO with a different name
 ![image](https://github.com/user-attachments/assets/3d1e1203-9f27-4b3b-8c5b-58eeb51fd421)
 
@@ -105,7 +106,7 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 #### 🔸Strengthen Password Policy
 ![image](https://github.com/user-attachments/assets/b28b43ac-bb42-4230-a76b-c9256718b959)
 
-# Adding a Computer to the Domain
+### Adding a Computer to the Domain
 #### 🔸Powershell
 ###### Host Computer
 ![image](https://github.com/user-attachments/assets/51f1da3e-5c50-48ca-8f50-307a1602c3a2)
@@ -120,7 +121,7 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 #### 🔸Verified on Domain Controller
 ![image](https://github.com/user-attachments/assets/f5551add-03c2-4faf-9a31-416cf38cfc2f)
 
-# Move Computer Object to the new OU
+### Moving Computer Object to the new OU
 ![image](https://github.com/user-attachments/assets/215f8e5a-90ff-4668-9453-13ebeaca1772)
 
 #### 🔸Verified Computer Object has been moved
