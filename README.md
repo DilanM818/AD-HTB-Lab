@@ -1,7 +1,7 @@
 # AD-Basic Administration-LAB
 
 # Scenario
-We are domain administrators for a day and has been tasked to help the IT department close some work orders. We will be performing actions such as adding and removing users and groups, managing group policy, adding a new computer to the proper domain, and apply a modified Group Policy already in GPMC.
+You are a domain administrator for a day and has been tasked to help the IT department close some work orders. You will be performing actions such as adding and removing users and groups, managing group policy, adding a new computer to the proper domain, and apply a modified Group Policy already in GPMC.
 
 # Requirements
 ##### 🔸Users
