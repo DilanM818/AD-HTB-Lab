@@ -1,4 +1,6 @@
-# Active-Directory-Lab
+# Active-Directory-Administration-LAB
+
+## Section 1
 
 ![image](https://github.com/user-attachments/assets/50ffa219-bcf6-4f9f-ab71-16b8e08e2a64)
 
@@ -50,6 +52,6 @@
 
 ![image](https://github.com/user-attachments/assets/b28b43ac-bb42-4230-a76b-c9256718b959)
 
-![image](https://github.com/user-attachments/assets/5bae5bd4-5254-4ed8-92da-775e0f72c8bd)
+
 
 
