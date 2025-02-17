@@ -11,7 +11,13 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 <br />
 -Artemis Callisto
 <br />
-##### 🔸User Attributes
+##### 🔸Attributes
+-Domain (inlanefreight.local)
+<br />
+-Organization Unit (Security Analyst)
+<br />
+-Group (Security Analyst)
+<br />
 -Full Name
 <br />
 -Email (first-initial.lastname@inlanefreight.local)
@@ -21,8 +27,9 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 -User must change password at next logon
 <br />
 
+
 # Tasks
--Add new users into AD
+-Add new users
 <br />
 -Remove a few old and inactive users
 <br />
@@ -34,7 +41,7 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 <br />
 
 # Key Takeaways
--Learning how to use programs for AD administration such Active Directory Users and Groups and Group Policy Management Console
+-Learning to use AD administration programs such Active Directory Users and Groups (ADUC) and Group Policy Management Console (GPMC)
 <br />
 -Gain familiarity using Powershell cmdlets in addition to GUI
 <br />
@@ -63,7 +70,7 @@ You are a domain administrator for a day and has been tasked to help the IT depa
 ## Unlock Account & Force password change at Logon
 #### 🔸Powershell
 ![image](https://github.com/user-attachments/assets/515aa695-f227-41ed-96e3-90a1b2e6b21c)
-#### 🔸ADDUC
+#### 🔸ADUC
 ![image](https://github.com/user-attachments/assets/18dfecda-39fe-41d9-8424-907616e8a14b)
 
 ### Creating and Verifying a Security Group
